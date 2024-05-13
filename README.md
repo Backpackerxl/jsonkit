@@ -93,7 +93,7 @@ public class Test {
 
 #### 使用Maven install
 
-**依次执行一下命令**
+**依次执行以下命令**
 
 - 克隆项目
 
